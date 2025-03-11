@@ -10,12 +10,6 @@ function App() {
       description: "Learn more about our commitment to quality and sustainable farming practices. We work directly with farmers to ensure the best tea leaves reach the market.",
     },
     {
-      url: "https://i.pinimg.com/474x/3e/85/c6/3e85c674f662eced6ec11e468bd6db56.jpg",
-      title: "Expert Tea Leaf Harvesting",
-      subtitle: "Our skilled workers ensure the highest quality tea leaf collection.",
-      description: "Our experienced team follows traditional and modern harvesting techniques to select only the finest tea leaves for processing.",
-    },
-    {
       url: "https://i.pinimg.com/474x/43/99/31/439931f0bb208b778ad8ec18af19ff76.jpg",
       title: "Quality Tea Production",
       subtitle: "From garden to cup - ensuring premium quality at every step.",
